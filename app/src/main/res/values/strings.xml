@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Login">lognbtn</string>
+    <string name="btn_forgot_password"><u>Don\'t remember password?</u></string>
+</resources>
